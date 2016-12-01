@@ -42,6 +42,3 @@
   (if (> indentation 0)
       (set (make-local-variable 'python-indent-offset) indentation)
     (message "Can't guess python-indent-offset, using defaults: %s" python-indent-offset)))
-
-;; swig file
-(require 'swig-mode)
