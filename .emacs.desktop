@@ -1,0 +1,127 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Dec  7 20:35:37 2016
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq sql-mysql-schema nil)
+(setq desktop-missing-file-warning nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((100 file . "~/downloads") (116 file . "~/temp") (44 file . "~/.emacs.d") (46 file . "~/.emacs")))
+(setq windata-named-winconf nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/hiromi/script/ode-0.12/project/RL/pylearn/learner.py"
+  "learner.py"
+  'python-mode
+  nil
+  532
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/Downloads/dot-emacs/themes/dark-laptop-theme.el"
+  "dark-laptop-theme.el"
+  'emacs-lisp-mode
+  '(abbrev-mode hs-minor-mode eldoc-mode)
+  17158
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/.emacs.d/README.md"
+  "README.md"
+  'fundamental-mode
+  nil
+  10
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/script/RL_framework/envs/ode-0.12/nearCallback.cpp"
+  "nearCallback.cpp"
+  'c++-mode
+  '(abbrev-mode hs-minor-mode eldoc-mode)
+  37
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/.emacs.d/themes/dark-laptop-theme.el"
+  "dark-laptop-theme.el"
+  'emacs-lisp-mode
+  '(abbrev-mode hs-minor-mode eldoc-mode)
+  17732
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/Downloads/dot-emacs/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(abbrev-mode hs-minor-mode eldoc-mode)
+  283
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(abbrev-mode hs-minor-mode eldoc-mode)
+  3351
+  '(1970 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/script/RL_framework/envs/ode_wrapper/nearCallback.py"
+  "nearCallback.py"
+  'python-mode
+  nil
+  348
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/script/RL_framework/envs/ode_wrapper/baby_robot1.i"
+  "baby_robot1.i"
+  'swig-mode
+  '(abbrev-mode hs-minor-mode eldoc-mode)
+  336
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/hiromi/.emacs.d/config/100-loaddefs.el"
+  "100-loaddefs.el"
+  'emacs-lisp-mode
+  '(abbrev-mode hs-minor-mode eldoc-mode)
+  13542
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix)))
+

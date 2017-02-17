@@ -42,3 +42,9 @@
   (if (> indentation 0)
       (set (make-local-variable 'python-indent-offset) indentation)
     (message "Can't guess python-indent-offset, using defaults: %s" python-indent-offset)))
+
+(add-to-list 'load-path "/opt/ros/indigo/share/emacs/site-lisp")
+(require 'rosemacs)
+(invoke-rosemacs)
+
+(global-auto-revert-mode 1)

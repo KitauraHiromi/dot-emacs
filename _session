@@ -1,0 +1,8 @@
+;;; -*- coding: chinese-gbk; -*-
+;;; Automatically generated on Thu Dec 15 15:35:49 2016
+;;; Invoked by hiromi@hiromi-PC using 24.3.1
+(setq-default session-file-alist '(("~/script/ode-0.12/project/RL/pylearn/learner.py" 532 nil 1 nil nil 532 (overwrite-mode)) ("~/dot-emacs/themes/dark-laptop-theme.el" 1196 nil 1 nil nil 17971 (overwrite-mode)) ("~/dot-emacs/init.el" 3351 1970 1 nil nil 3351 (overwrite-mode)) ("~/Downloads/dot-emacs/init.el" 1382 1 1 nil nil 1382 (overwrite-mode)) ("~/script/RL_framework/envs/ode-0.12/nearCallback.cpp" 39 nil 1 nil nil 38 (overwrite-mode)) ("~/script/RL_framework/envs/ode_wrapper/baby_robot1.i" 336 nil 1 nil nil 335 (overwrite-mode))))
+(setq-default file-name-history '("~/script/ode-0.12/project/RL/pylearn/BNN/bayes_by_backprop.py" "~/script/ode-0.12/project/RL/pylearn/learner.py" "/home/hiromi/.emacs.d/init.el" "~/Downloads/dot-emacs/init.el" "~/script/RL_framework/envs/ode-0.12/nearCallback.cpp" "~/script/RL_framework/envs/ode_wrapper/nearCallback.py" "~/script/RL_framework/envs/ode_wrapper/baby_robot1.i" "~/threading.py~"))
+(setq-default command-history '((find-file "/home/hiromi/.emacs.d/init.el")))
+(setq-default ido-file-history '("init.el"))
+(setq-default occur-collect-regexp-history '("\\1"))
